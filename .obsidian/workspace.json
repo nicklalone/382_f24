@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "handouts/GIS_software_instructions_Fall_2022_Spring_2023.pdf"
+                "file": "handouts/How to Download GIS and Access Remotely.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "handouts/GIS_software_instructions_Fall_2022_Spring_2023.pdf",
+                "file": "handouts/How to Download GIS and Access Remotely.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "handouts/GIS_software_instructions_Fall_2022_Spring_2023.pdf",
+                "file": "handouts/How to Download GIS and Access Remotely.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "handouts/GIS_software_instructions_Fall_2022_Spring_2023.pdf"
+                "file": "handouts/How to Download GIS and Access Remotely.pdf"
               }
             }
           }
@@ -146,8 +146,9 @@
   },
   "active": "3ff1a6b493822dee",
   "lastOpenFiles": [
-    "handouts/How to Download GIS and Access Remotely.pdf",
     "07 - Remote Sensing/07 - Remote Sensing.md",
+    "handouts/GIS_software_instructions_Fall_2022_Spring_2023.pdf",
+    "handouts/How to Download GIS and Access Remotely.pdf",
     "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
     "05 - Intro to GIS/05 - Intro to GIS.md",
     "04 - Game Maps/04 - Game Maps.md",
