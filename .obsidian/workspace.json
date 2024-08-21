@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - What is Space and Why Do We Need a Map?/01 - What is Space and Why Do We Need a Map?.md",
+                "file": "01 - What is Space and Why Do We Need a Map?/01 - Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - What is Space and Why Do We Need a Map?/01 - What is Space and Why Do We Need a Map?.md",
+                "file": "01 - What is Space and Why Do We Need a Map?/01 - Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - What is Space and Why Do We Need a Map?/01 - What is Space and Why Do We Need a Map?.md",
+                "file": "01 - What is Space and Why Do We Need a Map?/01 - Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - What is Space and Why Do We Need a Map?/01 - What is Space and Why Do We Need a Map?.md"
+                "file": "01 - What is Space and Why Do We Need a Map?/01 - Day 1.md"
               }
             }
           }
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ff1a6b493822dee",
+  "active": "0d6c3cad2463e621",
   "lastOpenFiles": [
     "09 - Map Design/09 - Map Design.md",
     "12 - Test Week/12 - Test Review.md",
@@ -159,7 +159,7 @@
     "04 - Game Maps/04 - Game Maps.md",
     "03 - Telling Stories with Geospatial Data/03 - Telling Stories with Geospatial Data.md",
     "02 - How do Maps Work/02 - How do Maps Work.md",
-    "01 - What is Space and Why Do We Need a Map?/01 - What is Space and Why Do We Need a Map?.md",
+    "01 - What is Space and Why Do We Need a Map?/01 - Day 1.md",
     "handouts/How to Download GIS and Access Remotely.pdf",
     "handouts/GIS_software_instructions_Fall_2022_Spring_2023.pdf"
   ]
