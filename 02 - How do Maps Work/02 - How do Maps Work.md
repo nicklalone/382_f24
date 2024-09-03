@@ -74,7 +74,7 @@ The rest of class will be devoted to going over the vocab which you can click an
 # <a id="day2"></a>Day 2 - Geocaching
 **Before we begin, there are 3 rules:** 
 
-1. If it's blisteringly cold, this assignment will get put off.
+1. If it's blisteringly cold, raining, or otherwise weathering, this assignment will get put off.
 2. Don't break anything.
 3. Follow the rules of good geocaching:
     1. [https://infoedmonton.com/article/geocaching-101-geocaching-dos-and-donts/#:~:text=Be%20a%20good%20neighbour%20and,%2C%20damaged%2C%20or%20illegal%20caches.](https://infoedmonton.com/article/geocaching-101-geocaching-dos-and-donts/#:~:text=Be%20a%20good%20neighbour%20and,%2C%20damaged%2C%20or%20illegal%20caches.)
