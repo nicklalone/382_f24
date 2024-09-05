@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - How do Maps Work/02 - How do Maps Work.md",
+                "file": "03 - Telling Stories with Geospatial Data/03 - Telling Stories with Geospatial Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - How do Maps Work/02 - How do Maps Work.md",
+                "file": "03 - Telling Stories with Geospatial Data/03 - Telling Stories with Geospatial Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - How do Maps Work/02 - How do Maps Work.md",
+                "file": "03 - Telling Stories with Geospatial Data/03 - Telling Stories with Geospatial Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - How do Maps Work/02 - How do Maps Work.md"
+                "file": "03 - Telling Stories with Geospatial Data/03 - Telling Stories with Geospatial Data.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "3ff1a6b493822dee",
   "lastOpenFiles": [
-    "01 - What is Space and Why Do We Need a Map?/01 - Day 1.md",
     "02 - How do Maps Work/02 - How do Maps Work.md",
+    "01 - What is Space and Why Do We Need a Map?/01 - Day 1.md",
     "presentations/readme.md",
     "presentations/~$02 - Tuesday.pptx",
     "presentations/~$01 - Thursday.pptx",
