@@ -23,6 +23,16 @@
 * Express Map - https://storymaps.arcgis.com/stories/3dac3a051c2e40929a327619315d44d1
 * Living Atlas - https://storymaps.arcgis.com/stories/820980061e124d71b19c7bc124390bef
 # <a id = "day1"></a>Day 1 - The Deal
+This week, we're mostly concerning ourselves with geospatial storytelling. You are already familiar with this in certain respects. If you play videogames, you will almost certainly have access to a map or map-based system. If you read a lot, you'll almost always see a map to sci-fi, fantasy, or most worlds and they'll constantly refer to the labels of that map. 
+
+In fact, some stories are so tied to maps that we tend to be able to trace their steps *exactly*. For example, see anything Lord of the Rings: http://lotrproject.com/map/#zoom=3&lat=-1315.5&lon=1500&layers=BTTTTT
+
+For example, Frodo leaves Bag End at the end of September and his journey ends at Mount Doom in March. We can track that space exactly because of Tolkien's approach to couching his work in the areas in and around England. 
+
+These days, we've got a reasonably accurate depiction of our planet and to maintain that, we constantly are updating it, making sure borders are drawn correctly, that things have the right labels. And it goes from the space of continents down to the electrical poles and manhole covers of each city. In fact, sometimes we go to the point where we map each tree in a Forest or we will map migratory paths of birds as we see them. 
+
+So how do we do that? Well, let's talk about GPS.
+
 Overview of GPS - Ground stations keep track of 24 satellites and your device (phone, garmin, smart watch, etc) will ping the satellites and the ground station will also use trilateration to figure out not just location, but altitude and other factors. 
 
 Trilateration description and overview
