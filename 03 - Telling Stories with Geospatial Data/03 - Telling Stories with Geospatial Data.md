@@ -35,7 +35,7 @@ So how do we do that? Well, let's talk about GPS.
 
 Overview of GPS - Ground stations keep track of 24 satellites and your device (phone, garmin, smart watch, etc) will ping the satellites and the ground station will also use trilateration to figure out not just location, but altitude and other factors. 
 
-Trilateration description and overview
+Trilateration description and overview: https://www.gps.gov/multimedia/tutorials/trilateration/#:~:text=The%20concepts%20behind%20GPS%20positioning,means%20positioning%20from%20three%20distances is one approach.
 
 Overview of Storymaps - this will be a demo, mostly. The above terms after Geospatial data are all from Storymaps.
 
