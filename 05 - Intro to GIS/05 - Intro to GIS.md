@@ -143,7 +143,7 @@ Getting to know these ribbons is super important as it will help you do somethin
 - **Editing Ribbon:** Editing and creating new features in your map 
 - **Share Ribbon:** Packaging or publishing a map layer or the map itself 
 
-!()[/images/map.png]
+![](/images/map.png)
 **Navigate** - this is a group of commands that you can use to directly manipulate the view of the map. 
 **Layer** - it does what it says. It adds layers, allows you to add data, and you can change the base map.
 **Selection** - This does what it says. When you need to select things whether they be points, lines, polygons, or some other things, this will help you. It can be confusing when you're working with layers because (much like photoshop or anything in the adobe suite) sometimes what you want to select is under something or somethings. I liked this article: https://desktop.arcgis.com/en/arcmap/latest/map/working-with-layers/selecting-features-interactively.htm
