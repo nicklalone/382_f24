@@ -4,7 +4,7 @@
 2. [Concepts to Date](#todate)
 3. [Concepts for This Week](#thisweek)
 4. [Day 1](#day1)
-	1. [We Finally Get Started](#getstart)
+	1. [We Get Going](#getstart)
 		1. [Introducing ArcGIS Pro](#intro)
 		2. [Filetypes, extensions, and things](#filetypes)
 		3. [UI Tutorial](#UItut)
@@ -47,27 +47,25 @@ Mostly this week, we are offering a bunch of tutorials and resources. We'll be d
 * **Generalization** - https://support.esri.com/en-us/gis-dictionary/generalization
 
 # <a id="day1"></a>Day 1
-## <a id ="getstart"></a>We Finally Get Started
+## <a id ="getstart"></a>We get going on GIS:
 What I thought i'd do this week is relatively simple: 
-
-1. Introduce Map Concepts
-2. Introduce the ArcGIS UI
+1. Learn about GIS File structures
+2. Introduce the ArcGIS UI and its various eccentricities.
 3. Prompt everyone to explore with an assignment in class. 
-
 So on Tuesday, we will explore GIS, on Thursday, we'll do an assignment. 
-
 ### <a id ="intro"></a>Introducing ArcGIS Pro (alternate things)
-If the stuff we talk about in class doesn't work for you, give this tutorial a shot: 
-* Part 1: https://www.youtube.com/watch?v=BbUctneHfKc&t=1558s&ab_channel=GeoDeltaLabs
+If the stuff we talk about in class doesn't give all of the knowledge you seek, give this tutorial a shot: 
+* Part 1: https://www.youtube.com/watch?v=BbUctneHfKc&t
 * Part 2: https://www.youtube.com/watch?v=t7ZnT5NgqlM&ab_channel=GeoDeltaLabs
 
-I also like this collection from RIT's own Brian Tomaszewski: 
+I also like this collection from IGM's own Brian Tomaszewski: 
 * https://www.youtube.com/watch?v=zrFm5HzwPNw&list=PLtrmEEvdGsNqsQ5ZpOapSmVQklIG9Bu5W&ab_channel=GIScience
 
 This is also a great starting tutorial:
 * https://www.youtube.com/playlist?list=PLRrQArPWjCiXlwfR9wN2XAphIbj56GNCi 
-# <a id="day2"></a>Thursday
 ### <a id ="welling"></a>Let's Explore Wellington
+This is a fun tutorial as well as it can be something you do on your machine. 
+
 You can find the data for this here: https://pro.arcgis.com/en/pro-app/latest/get-started/introducing-arcgis-pro.htm?adumkts=social&utm_source=social&aduc=social&adum=external&aduca=social_technical&adusf=youtube
 
 You can also find it in GIS itself. I'll show you how to do this.
@@ -96,20 +94,27 @@ Just like a powerpoint file, the way you save, its file type and other options a
 #### Use cases for GIS
 There are around 4 ways to think about what kind of project and what kind of setup you want to worry about with regard to GIS. Those 4 approaches can be found here: https://pro.arcgis.com/en/pro-app/latest/help/projects/what-is-a-project.htm but I will paste them below: 
 
--   You work mainly alone. You create and save projects on your own computer. 
+- **Alone:** 
+	- You work mainly alone. You create and save projects on your own computer. 
 	- This is what we'll be doing in this class almost always.
--   You work with others on the same projects that are stored on a network drive.
+- **Groups:** 
+	- You work with others on the same projects that are stored on a network drive.
 	- We do have a network drive here at RIT. 
--   You and your colleagues work on different projects, but your projects use a common template for consistency in maps, layouts, and other items.
+- **Different Groups, Same Template:**
+	- You and your colleagues work on different projects, but your projects use a common template for consistency in maps, layouts, and other items.
 	- This is going to feel a lot like working for a software designer with a standard frame for coding.
--   You share maps, layers, and other project items with colleagues. You may also share entire projects.
+- **Shared Drive:** 
+	- You share maps, layers, and other project items with colleagues. You may also share entire projects.
 	- Here, you have to decide if you want to send all the files or make them available online.
-One final note: 
+
+**One final note:** 
 	Projects can't be copied, moved, renamed, or deleted using ArcGIS Pro commands. Using file system commands for these operations isn't supported (except to delete projects) and risks corrupting the project. To copy, move, or rename a project, share it as a project package or [save the project with a new name](https://pro.arcgis.com/en/pro-app/3.1/help/projects/save-a-project.htm#ESRI_SECTION1_3DF32703CF96472384AE757C155039FC).
 
 Let's walk through GIS.
 ### <a id ="barebo"></a>Barebones of Ribbons
-Ribbons for ARCGIS work the same way as those in the Office Suite from Microsoft. In fact, that seems to be the guiding light in terms of software design. What i'd probably call the GIS is a mix between the curated experience of Office with the power of something like PyCharm or even a simple piece of software like notepad++. 
+The goal of this part of class is to get you to start clicking on things in GIS. It is a weird product that you will not really be able to bring existing UX from other projects into. Most of the time, you will see specialized knowledge, terminology, and the like that defines a discipline. So, for example, we could talk about CS and talk about BigO, Classes, Simple, Complex, and all sorts of things. For law, Tort, Civil, Criminal, Statute, Code, and focus on legal argumentation as opposed to actual. It's a path for professionalization that these things show up and so despite Geography having a rich history with this kind of terminology, GIS itself has become a certain discipline with its own UX, it's own terminology based on that UX, and a whole lot of avoiding current norms in design. 
+
+Ribbons for ARCGIS work the same way as those in the Office Suite from Microsoft. In fact, that seems to be the guiding light in terms of software design. What i'd probably call the GIS is a mix between the curated experience of Office, Google Maps on Desktop, and then a programming IDE with the power of something like PyCharm or even a simple piece of software like notepad++. 
 
 Getting to know these ribbons is super important as it will help you do something very powerful: make the maps or analyze the maps you want and share them with others. At its most basic, we can see the following:
 - **Map Ribbon:** Navigating, adding data, and selecting features 
@@ -121,7 +126,7 @@ Getting to know these ribbons is super important as it will help you do somethin
 * **Navigate** - this is a group of commands that you can use to directly manipulate the view of the map. 
 * **Layer** - it does what it says. It adds layers, allows you to add data, and you can change the base map.
 * **Selection** - This does what it says. When you need to select things whether they be points, lines, polygons, or some other things, this will help you. It can be confusing when you're working with layers because (much like photoshop or anything in the adobe suite) sometimes what you want to select is under something or somethings. I liked this article: https://desktop.arcgis.com/en/arcmap/latest/map/working-with-layers/selecting-features-interactively.htm
-* **Inquiry** - 
+* **Inquiry** - This will let you examine what's in an area with a variety of tools. I specifically love the Infographics space. If you're thinking about buying a home and can still access this, give it a shot!
 * **Labeling** - Allows you to go in and label your map. I know, i've used the word to define the word. Have a look at: https://pro.arcgis.com/en/pro-app/latest/get-started/label-your-map.htm
 * **Offline** - Makes your maps and things available without logging in. This part of the toolbar, at least for what we're doing in class, is probably a bit silly as you need to be online to work in GIS due to our license.
 
@@ -135,9 +140,9 @@ Getting to know these ribbons is super important as it will help you do somethin
 		**Favorites**
 
 ![](/images/analysis.png)
-* **Geoprocessing** - 
-* **Tools**
-* **Portal**
+* **Geoprocessing** - This part of the ribbon is getting you started on some in-depth technical analysis. here, you'll be able to create models, start a Python script, and use tools GIS folks have put in that folks tend to use. 
+* **Tools** - This is all about the tools in the previous part of the ribbon. Think of it like Word's collection of headings. 
+* **Portal** - This is all about different kinds of analysis. 
 * **Workflows**
 * **Raster**
 
@@ -155,6 +160,7 @@ Generally, this tab of the ribbon is about manipulating what you see, getting yo
 * **Navigation**
 
 ![](/images/edit.png)
+This is where you go when you have to ...edit something. I know, intensely weird. Everything here will help you adjust mistakes and it's no small matter to do with this. 
 * **Clipboard**
 * **Manage Edits**
 * **Snapping**
@@ -165,6 +171,7 @@ Generally, this tab of the ribbon is about manipulating what you see, getting yo
 * **Data Reviewer**
 
 ![](/images/imagery.png)
+
 * **Ortho Mapping**
 * **Alignment**
 * **Analysis**
@@ -175,6 +182,7 @@ Generally, this tab of the ribbon is about manipulating what you see, getting yo
 * **Motion Imagery**
 
 ![](/images/share.png)
+
 * **Package**
 * **Share As**
 * **Status**
@@ -183,6 +191,7 @@ Generally, this tab of the ribbon is about manipulating what you see, getting yo
 * **Output**
 
 ![](/images/help.png)
+
 * **Customize**
 * **Help**
 * **Performance**
