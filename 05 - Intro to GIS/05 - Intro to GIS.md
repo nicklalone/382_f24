@@ -20,18 +20,18 @@
 # <a id="reading"></a>Reading for this week
 Mostly this week, we are offering a bunch of tutorials and resources. We'll be doing some projects and messing with GIS.
 # <a id="midterm"></a> Concepts This Week
-* **Raster** - https://www.caliper.com/glossary/what-is-raster-data.htm
-* **Vector** - https://www.caliper.com/glossary/what-is-vector-data.htm
-	* **Discussion of Both**: 
-		* https://www.gislounge.com/geodatabases-explored-vector-and-raster-data/
-		* https://gisgeography.com/spatial-data-types-vector-raster/
-		* https://www.esri.com/content/dam/esrisites/en-us/media/pdf/teach-with-gis/raster-faster.pdf
-		* https://gis.stackexchange.com/questions/57142/what-is-the-difference-between-vector-and-raster-data-models
-		* https://id.land/blog/raster-vs-vector-data-the-ultimate-guide
-		* https://spatialvision.com.au/blog-raster-and-vector-data-in-gis/
+* **Data Structure* mostly refers to the types of data we'll be using and for the most part, we can point to Raster and Vector as our general approach. 
+	* **Raster** - https://www.caliper.com/glossary/what-is-raster-data.htm
+	* **Vector** - https://www.caliper.com/glossary/what-is-vector-data.htm
+		* **Discussion of Both**: 
+			* https://www.gislounge.com/geodatabases-explored-vector-and-raster-data/
+			* https://gisgeography.com/spatial-data-types-vector-raster/
+			* https://www.esri.com/content/dam/esrisites/en-us/media/pdf/teach-with-gis/raster-faster.pdf
+			* https://gis.stackexchange.com/questions/57142/what-is-the-difference-between-vector-and-raster-data-models
+			* https://id.land/blog/raster-vs-vector-data-the-ultimate-guide
+			* https://spatialvision.com.au/blog-raster-and-vector-data-in-gis/
 * **Scale** - https://www.caliper.com/glossary/what-is-a-map-scale.htm
 * **Data Model** - https://spatialvision.com.au/blog-raster-and-vector-data-in-gis/
-* **Data Structure** - https://support.esri.com/en-us/gis-dictionary/data-structure
 * **Cartesian Coordinate Systems -** 
 	* https://www.andrews.edu/~rwright/Precalculus-RLW/Text/01-01.html#:~:text=The%20Cartesian%20%2C%20or%20rectangular%20%2C%20coordinate,as%20(x%2C%20y)
 	* https://support.esri.com/en-us/gis-dictionary/cartesian-coordinate-system#:~:text=%5Bcoordinate%20systems%5D%20A%20two%2D,by%20an%20x%2Cy%20coordinate
