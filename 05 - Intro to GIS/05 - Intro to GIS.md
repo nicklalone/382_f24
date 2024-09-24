@@ -171,7 +171,7 @@ This is where you go when you have to ...edit something. I know, intensely weird
 * **Data Reviewer**
 
 ![](/images/imagery.png)
-
+We won't use this in class too often, if at all. What it is meant to do is change based on what you're doing as it is a contextual tab. Mostly though, this is about working with your raster data and potentially correcting it should it be needed. Think about flying a drone over a disaster area and you have to adjust that map to contain the new data.
 * **Ortho Mapping**
 * **Alignment**
 * **Analysis**
@@ -182,7 +182,7 @@ This is where you go when you have to ...edit something. I know, intensely weird
 * **Motion Imagery**
 
 ![](/images/share.png)
-
+Share your work in various ways. 
 * **Package**
 * **Share As**
 * **Status**
@@ -191,7 +191,7 @@ This is where you go when you have to ...edit something. I know, intensely weird
 * **Output**
 
 ![](/images/help.png)
-
+Like any piece of software, we've moved all documentation from large books that are chronically out of date to a database of help menus and contextual links to documentation online. 
 * **Customize**
 * **Help**
 * **Performance**
