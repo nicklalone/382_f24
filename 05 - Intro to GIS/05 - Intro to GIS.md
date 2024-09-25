@@ -68,7 +68,7 @@ This is a fun tutorial as well as it can be something you do on your machine.
 
 You can find the data for this here: https://pro.arcgis.com/en/pro-app/latest/get-started/introducing-arcgis-pro.htm?adumkts=social&utm_source=social&aduc=social&adum=external&aduca=social_technical&adusf=youtube
 
-You can also find it in GIS itself. I'll show you how to do this.
+You can also find it  in GIS itself. I'll show you how to do this.
 ### <a id ="uitut"></a>UI Tour
 Here is a general appearance of the mapping windows.
 ![](/images/whole.png)
