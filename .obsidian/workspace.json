@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
+                "file": "07 - Remote Sensing/07 - Remote Sensing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
+                "file": "07 - Remote Sensing/07 - Remote Sensing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
+                "file": "07 - Remote Sensing/07 - Remote Sensing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Intro to GIS/05 - Intro to GIS.md"
+                "file": "07 - Remote Sensing/07 - Remote Sensing.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   "active": "b1000bf4d289d5dd",
   "lastOpenFiles": [
     "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
+    "presentations/~$06 - Tuesday.pptx",
+    "07 - Remote Sensing/07 - Remote Sensing.md",
     "05 - Intro to GIS/05 - Intro to GIS.md",
     "presentations/~$05 - Tuesday.pptx",
     "presentations/~$04 - Tuesday.pptx",
@@ -178,7 +180,6 @@
     "11 - Ethics and Geodesign/11 - Ethics and Geodesign.md",
     "10 - Future of Maps/10 - Future of Maps.md",
     "08 - Disaster and Maps/08 - Disaster and Maps.md",
-    "07 - Remote Sensing/07 - Remote Sensing.md",
     "handouts/How to Download GIS and Access Remotely.pdf",
     "handouts/GIS_software_instructions_Fall_2022_Spring_2023.pdf"
   ]
