@@ -1,8 +1,7 @@
 ---------------- Table of Contents ---------------- 
 
-1. [Concepts to Date](#midterm)
-2. [Concepts for This Week](#thisweek)
-1. [Day 1](#day1)
+1. [Concepts for This Week](#thisweek)
+2. [Day 1](#day1)
 	1. [ESRI's Deal: I bet you can't guess.](#)
 		1. https://www.esri.com/en-us/disaster-response/overview
 	2. [3 Kinds of Maps](#)
@@ -19,10 +18,13 @@
 
 ---------------- Table of Contents ---------------- 
 # <a id="reading"></a>Reading for this week
-
-# <a id="midterm"></a>Concepts to Date
-
+No real readings. Much of this week is contextualized for whatever current disasters exist. 
 # <a id = "today"></a>Concepts for This Week 
+Not really concepts, but examples: 
+* https://maps.disasters.nasa.gov/arcgis/apps/storymaps/stories/9b95cee9d5534b8d8d3f8ef73f551300
+* https://www.flgov.com/2024/10/10/governor-ron-ron-desantis-issues-updates-on-state-response-and-recovery-efforts-for-hurricane-milton/
+* https://www.usgs.gov/news/featured-story/maps-and-imagery-hurricane-response
+* https://www.usgs.gov/the-national-map-data-delivery
 # <a id="day1"></a>Tuesday 
 ESRI's Deal: 
 		1. https://www.esri.com/en-us/disaster-response/overview

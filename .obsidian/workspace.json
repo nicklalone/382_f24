@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f57465bcb7f9ac88",
+        "id": "c8815a401d54ef16",
         "type": "tabs",
         "children": [
           {
-            "id": "3ff1a6b493822dee",
+            "id": "d5c7dc9216d1edd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Intro to GIS/05 - Intro to GIS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1000bf4d289d5dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - Remote Sensing/07 - Remote Sensing.md",
+                "file": "08 - Disaster and Maps/08 - Disaster and Maps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 - Remote Sensing/07 - Remote Sensing.md",
+                "file": "08 - Disaster and Maps/08 - Disaster and Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Remote Sensing/07 - Remote Sensing.md",
+                "file": "08 - Disaster and Maps/08 - Disaster and Maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - Remote Sensing/07 - Remote Sensing.md"
+                "file": "08 - Disaster and Maps/08 - Disaster and Maps.md"
               }
             }
           }
@@ -159,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1000bf4d289d5dd",
+  "active": "d5c7dc9216d1edd0",
   "lastOpenFiles": [
+    "05 - Intro to GIS/05 - Intro to GIS.md",
+    "08 - Disaster and Maps/08 - Disaster and Maps.md",
+    "07 - Remote Sensing/07 - Remote Sensing.md",
     "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
     "presentations/~$06 - Tuesday.pptx",
-    "07 - Remote Sensing/07 - Remote Sensing.md",
-    "05 - Intro to GIS/05 - Intro to GIS.md",
     "presentations/~$05 - Tuesday.pptx",
     "presentations/~$04 - Tuesday.pptx",
     "04 - Game Maps/04 - Game Maps.md",
@@ -179,7 +167,6 @@
     "12 - Test Week/12 - Test Review.md",
     "11 - Ethics and Geodesign/11 - Ethics and Geodesign.md",
     "10 - Future of Maps/10 - Future of Maps.md",
-    "08 - Disaster and Maps/08 - Disaster and Maps.md",
     "handouts/How to Download GIS and Access Remotely.pdf",
     "handouts/GIS_software_instructions_Fall_2022_Spring_2023.pdf"
   ]
