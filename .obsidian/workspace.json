@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Disaster and Maps/08 - Disaster and Maps.md",
+                "file": "09 - Map Design/09 - Map Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Disaster and Maps/08 - Disaster and Maps.md",
+                "file": "09 - Map Design/09 - Map Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Disaster and Maps/08 - Disaster and Maps.md",
+                "file": "09 - Map Design/09 - Map Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Disaster and Maps/08 - Disaster and Maps.md"
+                "file": "09 - Map Design/09 - Map Design.md"
               }
             }
           }
@@ -148,20 +148,20 @@
   },
   "active": "d5c7dc9216d1edd0",
   "lastOpenFiles": [
-    "05 - Intro to GIS/05 - Intro to GIS.md",
     "08 - Disaster and Maps/08 - Disaster and Maps.md",
+    "presentations/~$02 - Tuesday.pptx",
+    "presentations/~$01 - First Day.pptx",
+    "05 - Intro to GIS/05 - Intro to GIS.md",
     "07 - Remote Sensing/07 - Remote Sensing.md",
     "06 - Intro to Geospatial Analysis/06 - Intro to Geospatial Analysis.md",
     "presentations/~$06 - Tuesday.pptx",
     "presentations/~$05 - Tuesday.pptx",
     "presentations/~$04 - Tuesday.pptx",
     "04 - Game Maps/04 - Game Maps.md",
-    "presentations/~$01 - First Day.pptx",
     "01 - What is Space and Why Do We Need a Map?/01 - Day 1.md",
     "03 - Telling Stories with Geospatial Data/03 - Telling Stories with Geospatial Data.md",
     "02 - How do Maps Work/02 - How do Maps Work.md",
     "presentations/readme.md",
-    "presentations/~$02 - Tuesday.pptx",
     "presentations/~$01 - Thursday.pptx",
     "09 - Map Design/09 - Map Design.md",
     "12 - Test Week/12 - Test Review.md",

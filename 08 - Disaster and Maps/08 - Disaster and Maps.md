@@ -42,11 +42,12 @@ But what does this have to do with maps?
 We can say that there are 3 kinds of maps we have for disaster. Those maps are: 
 
 1. A Map of the Local Area.
+
 City planning is a process that does not check in with emergency management. The reason this matters is that most of your vulnerabilities and weaknesses originate here.
 
 Why?
 
-2. A Map of Risk and Vulnerability.
+1. A Map of Risk and Vulnerability.
 
 What is risk?
 ![](/images/Risk_Index_Calculation.svg)
