@@ -5,7 +5,7 @@ Today, you are all my sensors. 
 Please organize yourselves so you can answer these questions. For each question, please post an answer and include a URL of where that answer came from. However, please do not post the full URL as it is ugly and distracting. Please make them hyperlinks.
 
 1. What is remote sensing? Please provide 3 definitions from different sources. Those sources will form the basis of your answer to the next question.
-	* “Remote sensing is the process of detecting and monitoring the physicalcharacteristics of an area by measuring its reflected and emitted radiation at adistance.” [U.S Geological Survey]((https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used))
+	* “Remote sensing is the process of detecting and monitoring the physical characteristics of an area by measuring its reflected and emitted radiation at a distance.” [U.S Geological Survey]((https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used))
 	* b. “Remote sensors collect data by detecting natural energy that is reflected fromEarth’s surface. These sensors can be on satellites or mounted on aircraft,passive or active.” [What is remote sensing](https://oceanservice.noaa.gov/facts/remotesensing.html)?
 	* c. “Remote sensing is the practice of obtaining information about the Earth’s surface by analyzing data collected from special instruments that are not physically in contact with the objects being studied.” Remote Sensing - an Overview
 2. Please cite 5 pieces detailing what remote sensing is. Please include:
@@ -20,7 +20,7 @@ Please organize yourselves so you can answer these questions. For each question,
 			* [What is Remote Sensing - Smithsonian National Air and Space Museum](https://www.youtube.com/watch?v=F2mQ6fJSxRY&ab_channel=SmithsonianNationalAirandSpaceMuseum)
 3. What is Active remote sensing? Please provide 3 definitions from different sources. Those sources will form the basis of your answer to the next question.
 	* “Active Sensors have their own source of light or illumination. In particular, it actively sends a pulse and measures the backscatter reflected to the sensor.” -[GIS Geography](https://gisgeography.com/passive-active-sensors-remote-sensing/)
-	* “The sensor emits radiation which is directed toward the target to be investigated.The radiation reflected from that target is detected and measured by the sensor.” -[Government of Canada](https://natural-resources.canada.ca/maps-tools-and-publications/satellite-imagery-elevation-data-and-air-photos/tutorial-fundamentals-remote-sensing/introduction/passive-vs-active-sensing/14639)
+	* “The sensor emits radiation which is directed toward the target to be investigated. The radiation reflected from that target is detected and measured by the sensor.” -[Government of Canada](https://natural-resources.canada.ca/maps-tools-and-publications/satellite-imagery-elevation-data-and-air-photos/tutorial-fundamentals-remote-sensing/introduction/passive-vs-active-sensing/14639)
 	* “An active sensor is a radar instrument used for measuring signals transmitted bythe sensor that were reflected, refracted or scattered by the Earth’s surface or its atmosphere.” - [NASA](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/remote-sensing/). 
 4. Please cite 5 pieces detailing what Active remote sensing is. Please include:
 	* 2 Web Resources,
