@@ -43,7 +43,6 @@
 - **Way finding** - [https://support.esri.com/en-us/gis-dictionary/wayfinding#:~:text=Wayfinding%20consists%20of%20acquiring%20information,the%20cognitive%20component%20of%20navigation](https://support.esri.com/en-us/gis-dictionary/wayfinding#:~:text=Wayfinding%20consists%20of%20acquiring%20information,the%20cognitive%20component%20of%20navigation).
 
 # <a id = "03"></a>Week 03 - Story Maps
-
 - **GIS** - [https://www.esri.com/en-us/what-is-gis/overview](https://www.esri.com/en-us/what-is-gis/overview)
 - **GPS** - [https://www.geotab.com/blog/what-is-gps/](https://www.geotab.com/blog/what-is-gps/)
 - **Trilateration** - [https://www.lifewire.com/trilateration-in-gps-1683341](https://www.lifewire.com/trilateration-in-gps-1683341)
@@ -57,7 +56,6 @@
 - **Express Map** - [https://storymaps.arcgis.com/stories/3dac3a051c2e40929a327619315d44d1](https://storymaps.arcgis.com/stories/3dac3a051c2e40929a327619315d44d1)
 - **Living Atlas** - [https://storymaps.arcgis.com/stories/820980061e124d71b19c7bc124390bef](https://storymaps.arcgis.com/stories/820980061e124d71b19c7bc124390bef)
 # <a id = "04"></a>Week 04 - Game Maps
-
 - **Game Cartography Interface** - An interface that affords users the ability to manipulate geographic data.
 - **Playful Mapping** - Taking concepts from games and using them in similar ways with actual geographic information.
 - **Maps of Fictional Places** - All maps are essentially maps of fictional places as in reality we need to be there to carry forward the idea of reality. That said, a map is often one artifact that is essential for making a place feel more real.
@@ -102,7 +100,6 @@
 * **Map Projections** - https://www.gislounge.com/map-projection/
 * **Generalization** - https://support.esri.com/en-us/gis-dictionary/generalization
 # <a id = "06"></a>Week 06 - Intro to Geospatial Analysis
-
 - **Geospatial Analysis** - a form of computational analysis that uses geographic information, spatial data, location data, and increasingly, high-resolution imagery, computer vision, and other forms of AI to extract structured data that can be used for specific applications and industries. [From here](https://capeanalytics.com/blog/geospatial-analytics-what-is-it-how-can-it-give-you-a-competitive-edge/#:~:text=Geospatial%20analytics%20is%20a%20form,for%20specific%20applications%20and%20industries.)
 
 The basis of GIS from ESRI is Google Maps + Excel at its most basic. However, what this comparison provides is incomplete. To make it more complete, we can say that GIS is _actually_ Google Maps + Excel + the Python Interpreter.
@@ -128,7 +125,6 @@ They then contact a statistics and data gathering firm to perform a study of how
 - [https://libguides.northwestern.edu/c.php?g=114808&p=748275](https://libguides.northwestern.edu/c.php?g=114808&p=748275)
 ### Retailers
 Retailers will use GIS for 2 distinct reasons: where to locate a store and where to locate items in a store. There is a TON of work on this from a variety of different spaces.
-
 - [https://www.youtube.com/watch?v=Ol0SvsF2kP0&ab_channel=CARTO](https://www.youtube.com/watch?v=Ol0SvsF2kP0&ab_channel=CARTO)
 ### Segregation
 Most of our work on desegregating and correcting the history of our founding has been policy driven. While policy tends to try and force equity, there's still an absolutely huge amount of work to do. Geospatial analysis can provide us with a literal microscope to evaluate where that work is successful and not. Check out the following:
@@ -250,14 +246,12 @@ https://www.undrr.org/news/sendai-framework-6th-anniversary-time-recognize-there
 4. A Map of Disaster Damage in Situ.
 
 # <a id = "10"></a>Week 10 - Map Design
-
 For this week, I asked you to draw a map from my office to class. I then asked you to draw that same map in GIS. What we found was that: 
 1. Scale was hard to keep track of via paper because we are used to computers keeping that scale for us. 
 2. The next part was that many of us relied on existing floorplans. This meant that almost all of the drawing was done and so we were transcribing. If those floorplans didn't exist, we would have to create our scale from scratch.
 3. In a perfect world, we'd be taking 2 floorplans with the same scale and then applying that scale to external spaces but that is difficult as there are no scales on the floorplans that exist.
 4. GIS can only provide top-down, external-based floorplans. While GIS can do 3D maps, the concept does not really change. It is still external to external. This does not change the criticism of GIS only being able to map from outside door to outside door because it's simply a 3D box rather than a 2D box. There is still no map inside.
 # <a id = "11"></a>Week 11 - Future of Maps
-
 We talked about the potential futures that exist for our world. Most of what we talked about is included in our homework assignment. 
 
 As such, we turn to the concept of design fiction. We'll use [this definition](https://https://augerloizeau.tumblr.com/post/53524176947/definition-of-speculative-design): 
